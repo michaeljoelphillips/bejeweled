@@ -1,0 +1,44 @@
+.grid {
+  display: grid;
+  grid-template-columns: repeat(8, 50px);
+  gap: 5px;
+}
+
+.cell {
+  height: 50px;
+}
+
+.red {
+  background-image:
+    url('images/red.svg');
+}
+
+.orange {
+  background-image:
+    url('images/orange.svg');
+}
+
+.yellow {
+  background-image:
+    url('images/yellow.svg');
+}
+
+.green {
+  background-image:
+    url('images/green.svg');
+}
+
+.blue {
+  background-image:
+    url('images/blue.svg');
+}
+
+.purple {
+  background-image:
+    url('images/purple.svg');
+}
+
+.white {
+  background-image:
+    url('images/white.svg');
+}

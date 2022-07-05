@@ -1,0 +1,12 @@
+{
+  "name": "bejeweled",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Michael Phillips <michaeljoelphillips@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {}
+}
